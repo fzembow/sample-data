@@ -1,0 +1,15 @@
+{
+  "home_type": "single_family",
+  "year_built": 1966,
+  "foundation": "basement",
+  "occupancy_type": "primary_residence",
+  "square_feet": 2475,
+  "central_ac": true,
+  "build_quality": "upgraded",
+  "stories": 2,
+  "roof": "asphalt",
+  "closest_fire_station": "under_5_miles",
+  "rebuild_cost": 953000,
+  "roof_updated": true
+}
+
